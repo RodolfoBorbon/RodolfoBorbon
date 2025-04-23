@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rodolfo Borbon
+# 👋 Hi, I am Rodolfo Borbon
 
 Welcome to my GitHub profile! I'm a passionate **Software Engineer** with 1 year of professional experience and 3+ years of hands-on learning. I specialize in AI, machine learning, and full-stack development. I enjoy crafting innovative AI solutions, collaborating with teams, and learning new technologies.
 
