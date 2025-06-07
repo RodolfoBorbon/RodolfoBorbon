@@ -108,7 +108,6 @@ Welcome to my GitHub profile! I'm a passionate **AI-Software Engineer** with 1 y
 
 ## 📫 Contact Me
 
-- **Email:** [rodolfo.borbon@outlook.com](mailto:rodolfo.borbon@outlook.com)  
-- **GitHub:** [RodolfoBorbon](https://github.com/RodolfoBorbon)  
+- **Email:** [rodolfo.borbon@outlook.com](mailto:rodolfo.borbon@outlook.com)    
 - **LinkedIn:** [Rodolfo Borbon](https://linkedin.com/in/rodolfo-borbon)  
 
