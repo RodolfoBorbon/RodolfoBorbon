@@ -82,27 +82,41 @@ Welcome to my GitHub profile! I'm a passionate **AI-Software Engineer** with 1 y
 
 ## 💼 Work Experience
 
-### Student AI Researcher  
-**WHITACH - Centennial College | Jan 2025 – Present**  
-- Designed scalable ML pipelines for beer recipe generation.  
-- Generated synthetic data with CTGAN, increasing dataset accuracy by 17%.  
+### Student AI Researcher, Kulture Rebellion (Co-op) 
+**WIMTACH - Centennial College | Jan 2025 – May 2025**  
+- Designed and implemented modular AI/ML workflows using regression/classification models (Random
+Forest, XGBoost, Gradient Boosting, and SVM), with automated model selection, hyperparameter
+tuning, and model versioning.  
+- Built and deployed a full-stack web application using React/Next.js, and FastAPI to interact with AI
+models for generating beer recipe. 
 
-### Frontend Developer  
+### Backend Developer  
 **Exera Solutions | Jan 2025 – Apr 2025**  
-- Built responsive HR management tools with React, TypeScript, and Tailwind CSS.  
+- Developed RESTful APIs to support job description creation, editing, approval workflows, and user
+management, leveraging JWT authentication for secure access control.
+- Integrated Google Gemini AI for automated bias analysis, enabling the detection and mitigation of
+unconscious bias in job descriptions.
 
-### Quality Assurance Engineer  
-**Amphenol OSI Electronics | Oct 2016 – Nov 2020**  
-- Improved quality processes, reducing defects and optimizing manufacturing standards.  
+
+### Student AI Researcher, Universal Health Hub (Co-op) 
+**WIMTACH - Centennial College | Sep 2024 – Dec 2024**  
+- Conducted detailed analysis of the dataset, including data cleaning, preprocessing, and exploratory data
+analysis (EDA).  
+- Developed binary classifiers for several foot conditions (Callus, Corn, Fungal infections, and Long Nails)
+using the DenseNet121 model.
+- Deployed trained DenseNet121 models via a Flask API with structured input/output, enabling real-time
+inference; applied basic model versioning and logging for monitoring predictions.
 
 ---
 
-## 🌟 Certifications & Achievements
+## 🌟 Courses & Certifications
 
 - **Capstone Industry Group Project** – Centennial College (2025)  
 - **NASA International Space Apps** – Centennial College (2024)  
 - **Occupation-Specific Language Training Technology** – Humber College (2022)  
-- **ISO 19011:2011** – Technological Institute of Sonora (2014)  
+- **ISO 19011:2011** – Technological Institute of Sonora (2014)
+- **IBM Data Science** - Coursera (2025)
+- **IBM Full-Stack Web Developer** - Coursera (2025)
 
 ---
 
